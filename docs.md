@@ -1,4 +1,4 @@
-This documentation describes how to use the Pavel automated
+This documentation describes how to use the Pavel automatedd
 toothbrush.
 
 Note that this toothbrush is totally safe to
